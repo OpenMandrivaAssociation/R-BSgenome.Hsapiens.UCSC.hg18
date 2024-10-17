@@ -7,7 +7,7 @@ Release:          1
 Summary:          Homo sapiens (Human) full genome (UCSC version hg18)
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
-URL:              http://bioconductor.org/packages/release/data/annotation/html/%{packname}.html
+URL:              https://bioconductor.org/packages/release/data/annotation/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg18_1.3.19.tar.gz
 BuildArch:        noarch
 Requires:         R-core
